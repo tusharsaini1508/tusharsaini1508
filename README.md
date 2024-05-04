@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Tushar saini](https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop)
+- 👨‍💻 All of my projects are available at [Linkdin Post](https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop)
 
-- 📝 I regularly write articles on [Articles and Post](https://www.linkedin.com/in/tushar-saini-83791723b/)
+- 📝 I regularly write articles on [Posts](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
 - 💬 Ask me about **Android ,Web , Back-End**
 
-- 📫 How to reach me **Tusharsainivpn@gmail.com**
+- 📫 How to reach me **Tusharsainivpn0@gmail.com**
 
 - 📄 Know about my experiences [Experiences](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
@@ -24,10 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tusharsaini1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharsaini1508" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar saini" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tusharsaini1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tusharsaini1508" height="30" width="40" /></a>
-<a href="https://discord.gg/tusharsaini1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tusharsaini1508" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-saini-83791723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-saini-83791723b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
