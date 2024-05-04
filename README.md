@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Linkdin Post](https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop)
+- 👨‍💻 All of my projects are available at [Git HuB](https://github.com/tusharsaini1508)
 
 - 📝 I regularly write articles on [Posts](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
