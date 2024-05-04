@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop)
+- 👨‍💻 All of my projects are available at [Tushar saini](https://www.linkedin.com/posts/tushar-saini-83791723b_html5-css3-js-activity-7189465727752376321-aIxa?utm_source=share&utm_medium=member_desktop)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tushar-saini-83791723b/](https://www.linkedin.com/in/tushar-saini-83791723b/)
+- 📝 I regularly write articles on [Articles and Post](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
 - 💬 Ask me about **Android ,Web , Back-End**
 
-- 📫 How to reach me **Tusharsainivpn0@gmail.com**
+- 📫 How to reach me **Tusharsainivpn@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tushar-saini-83791723b/](https://www.linkedin.com/in/tushar-saini-83791723b/)
+- 📄 Know about my experiences [Experiences](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
 - ⚡ Fun fact **I can code**
 
